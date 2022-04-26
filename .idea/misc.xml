@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_facebook_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_whatsapp_social_media_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_sign_up.xml" value="0.287962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
