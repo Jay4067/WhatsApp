@@ -3,11 +3,47 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/bg_et_message.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/btn_save.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/btn_send.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic__1016449961582988850.xml" value="0.244" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic__add_image.xml" value="0.192" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic__addimage.xml" value="0.192" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic__help.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic__invite_friend.xml" value="0.244" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic__privacy.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.2295" />
         <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_facebook_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_for_error.xml" value="0.244" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_google_svgrepo_com.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_send_sharp_svgrepo_com.xml" value="0.2295" />
         <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/ic_whatsapp_social_media_svgrepo_com.xml" value="0.1" />
-        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
-        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_sign_up.xml" value="0.287962962962963" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/linear_background.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/receive_msg_bubble.xml" value="0.67" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/reciever_bubble.xml" value="0.33" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/send_button.xml" value="0.2295" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/send_button_shape.xml" value="0.1" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/send_msg_bubble.xml" value="0.22" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/drawable/sender_bubble.xml" value="0.5" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_chat_detail.xml" value="0.25462962962962965" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_group_chat.xml" value="0.2564814814814815" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_settings.xml" value="0.33" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_sign_in.xml" value="0.17314814814814813" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_sign_up.xml" value="0.26666666666666666" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/bg_reciever.xml" value="0.25" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/fragment_call.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/fragment_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/fragment_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/reciever_bg.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/sample_show_user.xml" value="0.19195046439628483" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/layout/sender_bg.xml" value="0.17407407407407408" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/menu/menu.xml" value="0.2712962962962963" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.244" />
+        <entry key="..\:/Jay/WhatsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.244" />
       </map>
     </option>
   </component>

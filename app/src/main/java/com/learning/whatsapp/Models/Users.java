@@ -1,28 +1,40 @@
 package com.learning.whatsapp.Models;
 
 public class Users {
-    String profilePic , userName,mail , password,userId,lastmessage;
+    String profilePic , userName,mail , password,userId,lastmessage,status;
 
-    public Users(String profilePic, String userName, String mail, String password, String userId, String lastmessage) {
+    public Users(String profilePic, String userName, String mail, String password, String userId, String lastmessage, String status) {
         this.profilePic = profilePic;
         this.userName = userName;
         this.mail = mail;
         this.password = password;
         this.userId = userId;
         this.lastmessage = lastmessage;
+        this.status = status;
     }
 
     public Users(){
 
     }
 
-    //SignUp Constructor
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
+//SignUp Constructor
 
     public Users(String userName, String mail, String password){
         this.userName = userName;
         this.mail = mail;
         this.password = password;
 
+    }
+
+    public String getUserId() {
+        return userId;
     }
 
     public String getProfilePic() {
@@ -57,7 +69,7 @@ public class Users {
         this.password = password;
     }
 
-    public String getUserId() {
+    public String getUserId(String key) {
         return userId;
     }
 
